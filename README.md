@@ -60,7 +60,8 @@ The dashboard provides:
 
 Below is a snapshot of the interactive Power BI dashboard built for this project:
 
-![Customer Purchase Behavior Dashboard](screenshot.png)
+![Customer Purchase Behavior Dashboard](Screenshot.png)
+
 
 
 ---
