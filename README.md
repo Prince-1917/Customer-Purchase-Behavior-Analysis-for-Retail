@@ -54,7 +54,14 @@ The dashboard provides:
 - Discount and loyalty insights
 - Customer segmentation visuals
 
-*(Screenshot available in `/screenshots` folder)*
+---
+
+## 📊 Power BI Dashboard
+
+Below is a snapshot of the interactive Power BI dashboard built for this project:
+
+![Customer Purchase Behavior Dashboard](screenshot.png)
+
 
 ---
 
